@@ -15,7 +15,7 @@
 
 ## 🔬 Featured Projects
 
-### 🎨 [MMDIT-PyTorch](https://github.com/KennyStryker/mmdit-pytorch) | Multi-Modal Diffusion Transformer
+### 🎨 [MMDiT-PyTorch](https://github.com/KennyStryker/mmdit-pytorch) | Multi-Modal Diffusion Transformer
 *A high-performance PyTorch implementation of the Multi-Modal Diffusion Transformer (MM-DiT) architecture, as featured in Stable Diffusion 3.*
 * **Core Innovation:** Implemented the "Symmetric Attention" mechanism where text and image modalities maintain their own learned embeddings while inter-modality information flows through a shared attention block.
 * **Engineering:** Optimized for memory efficiency using scaled dot-product attention and modular block design to support varying sequence lengths across modalities.
