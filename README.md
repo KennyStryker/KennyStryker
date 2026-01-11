@@ -1,8 +1,4 @@
-# 👋 Kenny Stryker | Machine Learning Engineer 
-
-I am a specialized **Machine Learning Engineer** dedicated to pushing the boundaries of model efficiency and architectural design. By synthesizing advanced **stochastic optimization** with high-performance **distributed systems**, I transform complex theoretical concepts into production-ready realities. My mission is to build AI that is not just more powerful, but smarter, faster, and more accessible.
-
----
+# 🚀 Profile
 
 ## 🛠️ Research Focus & Technical Expertise
 
@@ -17,13 +13,20 @@ I am a specialized **Machine Learning Engineer** dedicated to pushing the bounda
 | **Data & Eval** | Feature Engineering, PCA, AUC-ROC, Calibration Curves. | RAG, Synthetic Data, Reward Modeling. |
 ---
 
-## 🔬 Featured Research & Projects
+## 🔬 Featured Projects
 
 ### 🎨 [MMDIT-PyTorch](https://github.com/KennyStryker/mmdit-pytorch) | Multi-Modal Diffusion Transformer
 *A high-performance PyTorch implementation of the Multi-Modal Diffusion Transformer (MM-DiT) architecture, as featured in Stable Diffusion 3.*
 * **Core Innovation:** Implemented the "Symmetric Attention" mechanism where text and image modalities maintain their own learned embeddings while inter-modality information flows through a shared attention block.
 * **Engineering:** Optimized for memory efficiency using scaled dot-product attention and modular block design to support varying sequence lengths across modalities.
 * **Theory:** Integrated flow-matching objectives and time-conditioned modulation layers to achieve superior alignment between cross-modal representations.
+
+### ⛓️ [mHC-PyTorch](https://github.com/KennyStryker/manifold-constrained-hyper-connections) | Manifold-Constrained Hyper-Connections
+*An implementation of the mHC framework, designed to stabilize and scale widened residual streams in deep foundational models.*
+
+* **Core Innovation:** Developed a projection-based connectivity layer that constrains residual mixing matrices to the **Birkhoff Polytope** (doubly stochastic manifold).
+* **Engineering:** Integrated the **Sinkhorn-Knopp algorithm** for differentiable manifold projection and implemented kernel fusion techniques to minimize the memory access overhead caused by widened residual streams.
+* **Theory:** Leveraged the closure property of doubly stochastic matrices under multiplication to guarantee stability.
 
 ---
 
