@@ -1,4 +1,6 @@
-# 🚀 Profile
+# 👋 Welcome to my profile
+
+<div align=center><img src="https://repository-images.githubusercontent.com/280910598/61c0a980-3190-11eb-9851-1ed7f1d55940" height=500 width=2000/></div>
 
 ## 🛠️ Research Focus & Technical Expertise
 
@@ -8,9 +10,9 @@
 | **Optimization** | Init Schemes, Triton Kernels, Adam. | RLHF, DPO, GRPO. |
 | **Fine-Tuning** | Hyperparameter Opt (Bayesian), Transfer Learning, Domain Adaptation. | **PEFT:** LoRA, QLoRA, DoRA. |
 | **Scaling & Infra** | Distributed Training (FSDP, DeepSpeed ZeRO 1-3). | **Inference:** FlashAttention-3, vLLM, Speculative Decoding. |
-| **Model Compression** | Pruning, Knowledge Distillation, Weight Clustering. | **Quantization:** 4-bit/8-bit (bitsandbytes, GGUF). |
-| **Theory & Math** | Manifold Density, Bias-Variance Tradeoff, Convergence Analysis. | Scaling Laws, Tokenization. |
-| **Data & Eval** | Feature Engineering, PCA, AUC-ROC, Calibration Curves. | RAG, Synthetic Data, Reward Modeling. |
+| **Model Compression** | Pruning, Knowledge Distillation. | **Quantization:** 4-bit/8-bit (bitsandbytes, GGUF). |
+| **Theory & Math** | Bias-Variance Tradeoff, Convergence Analysis. | Scaling Laws, Tokenization. |
+| **Data & Eval** | Feature Engineering, PCA, AUC-ROC. | RAG, Synthetic Data, Reward Modeling. |
 ---
 
 ## 🔬 Featured Projects
